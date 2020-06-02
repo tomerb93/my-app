@@ -7,8 +7,7 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e",
-    "serve": "concurrently \"ng s -o\" \"/backend/node_modules/.bin/ts-node-dev.ts /backend/server.ts\""
+    "e2e": "ng e2e"
   },
   "private": true,
   "dependencies": {
